@@ -37,5 +37,4 @@ When running either notebook (targeted or non-targeted), this code produces an a
 - Select attack: Black or white box adversarial attack. Choose between PGD, FGSM and Pixle attack (default: PGD)
 - Select epsilon: Attack Intensity. Options: 8/255, 16/255, 32/255, 64/255 (default: 8/255)
 - Select timesteps: Model training timesteps. type: int (default: 15)
-- (If attack == Pixle) Size of patch: Size of attack patch 10%,20%,..,100% (default: 10%). Note that if
-- attack != Pixle and size of patch != 0.1 an error will stop the app from running.
+- (If attack == Pixle) Size of patch: Size of attack patch 10%,20%,..,100% (default: 10%). Note that if attack != Pixle and size of patch != 0.1 an error will stop the app from running.
