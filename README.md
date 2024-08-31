@@ -26,7 +26,7 @@ project directory:
 pip install -r requirements.txt
 ```
 
-## Targeted and non - targeted attacks
+## Targeted and non - targeted attacks application
 
 - Non-targeted attacks: All attacks run in this way do not shift the labels of the original data in such a way to form any targeted attack.
 - Targeted attacks: All attacks run in this way shift the labels of the original data by one.
